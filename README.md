@@ -13,7 +13,7 @@ Victor Alexandre dos Santos Valsecchi[1], Lara Faria Souza Dias[2],  Rachel Rier
 
 _____________________________________________________
 
-# FILES
+# Files
 
 search_strategies: Full search strategies used in PubMed Central (PMC). The column "ID" identifies the search results files 01-07.
 
